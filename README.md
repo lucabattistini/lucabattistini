@@ -1,6 +1,6 @@
 ## hi folks 👋
 
-i am an italian born and raised frontend developer who tries to make the www a better place.
+i am a born and raised italian frontend developer who tries to make the www a better place.
 
 <!--
 **lucabattistini/lucabattistini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
